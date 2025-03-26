@@ -36,9 +36,6 @@
 ![image](https://github.com/user-attachments/assets/ba4b2c2b-8a6b-467c-9bbe-0466a7dc4813)
 27 моделей
 
-![image](https://github.com/user-attachments/assets/7527a6b7-9d36-4b8e-9b3a-2e209bfe7f96)
-Работа модели
-
 ## 2 Симулятор добычи ресурсов
 После сделанных пунктов по методичке объект "перетаскивал" ресурсы
 
