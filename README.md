@@ -24,16 +24,16 @@
 
 ## 1 Поиск агентом объекта на сцене
 После сделанных пунктов по методичке объект на сцене Unity начал двигаться
-![image](https://github.com/user-attachments/assets/f35ed42a-d042-4611-a669-dd6092d62447)
+![image](https://github.com/user-attachments/assets/37174e8d-601e-4ddc-89e0-74012fbb4c25)
 1 модель
 
-![image](https://github.com/user-attachments/assets/e3d4e075-2b2c-4021-a529-9a294c74fce4)
+![image](https://github.com/user-attachments/assets/3ee3ae78-f210-447b-b485-4a69e1ab3d65)
 3 модели
 
-![image](https://github.com/user-attachments/assets/162e864a-2d01-4ce7-bb77-e289dfa13447)
+![image](https://github.com/user-attachments/assets/48abe578-f62c-439e-8fcf-efebedeac6b1)
 9 моделей
 
-![image](https://github.com/user-attachments/assets/1dfb7803-80a9-4e59-a625-0c455bb2db7c)
+![image](https://github.com/user-attachments/assets/ba4b2c2b-8a6b-467c-9bbe-0466a7dc4813)
 27 моделей
 
 ![image](https://github.com/user-attachments/assets/7527a6b7-9d36-4b8e-9b3a-2e209bfe7f96)
@@ -42,11 +42,10 @@
 ## 2 Симулятор добычи ресурсов
 После сделанных пунктов по методичке объект "перетаскивал" ресурсы
 
-![image](https://github.com/user-attachments/assets/8a893886-a4cc-47c1-bf9e-1022f84837c1)
+![image](https://github.com/user-attachments/assets/03eef6b1-147a-4e5c-8eaf-5545a946c1c4)
 При запуске сцены, все объекты перетаскивали ресурсы абсолютно точно, скорее всего из-за того что я скачал проект с обученной моделью
 
-
-![image](https://github.com/user-attachments/assets/168191e0-f2fd-45a1-9dc2-e8ef6bbb4372)
+![image](https://github.com/user-attachments/assets/e9355558-b6a8-474f-8d55-bf70560c8a54)
 Графики оценки результатов обучения
 
 ## Задание 1. Найдите внутри C# скрипта “коэффициент корреляции” и сделать выводы о том, как он влияет на обучение модели
